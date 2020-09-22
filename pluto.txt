@@ -1,3 +1,5 @@
 lots of interesting text
 Even more INTERESTING TEXT
-More interesting by epsilon
+Resolved
+*More interesting by epsilon
+*Extra special text
